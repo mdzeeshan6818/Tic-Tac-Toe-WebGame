@@ -8,11 +8,6 @@ let theme = document.querySelector("#changeMode");
 
 let turnO = true; // playerX,playerO
 
-let arr = ["apple", "banana", "litchi"];
-
-//2d Array
-let arr2 = [["apple", "litchi"], ["carrot", "cucumber"], ["jeans", "shirt"]];
-
 let winpatterns = [
     [0, 1, 2],
     [0, 3, 6],
